@@ -3,7 +3,7 @@ powershell script to test powershell in network
 
 # Windows Update with Powershell
 ## Locally
-there are several ways to update windows locally, Windows_Update_2 is a script which work without installing any extra module.
+there are several ways to update windows locally, *Windows_Update_2* is a script which work without installing any extra module.
 
 ## from Remote
 it is not so easy to do windows update from remote client. obwohl the connectiono is established successfully, there will be "Access Denied" error. 
